@@ -1,0 +1,5 @@
+Solutions in rust https://github.com/gifnksm/ProjectEulerRust
+
+All results http://code.google.com/p/projecteuler-solutions/wiki/ProjectEulerSolutions
+
+image::https://projecteuler.net/profile/rofrol.png[]
